@@ -1499,7 +1499,7 @@ html,body{
 #scroll-Top  .return-to-top {
     position: fixed;
     right: 30px;
-    bottom: 30px;
+    bottom: 55px;
     display: none;
     width: 40px;
     line-height: 40px;
